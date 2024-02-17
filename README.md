@@ -1,5 +1,5 @@
 # My_HS23660052.github.io
-Ethereal by HTML5 UP  
+Ethereal by HTML5  
 
 .
 
