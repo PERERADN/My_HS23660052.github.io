@@ -1,0 +1,104 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('03.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+header {
+    font-family:good brush;
+    font-size: 20px;
+    background-color: #2A2550;
+    color: #E04D01;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    text-align: center;
+}
+
+
+section.hero {
+    font-family: built titling;
+    color: #fff;
+    margin-top: 50px;
+    font-size: 25px;
+    text-align: center;
+}
+
+section.hero2 {
+    font-family: built titling;
+    color: #fff;
+    margin-top: 220px;
+    font-size: 25px;
+    text-align: center;
+}
+
+section.hero3 {
+    font-family: built titling;
+    color: #fff;
+    margin-top: 150px;
+    font-size: 25px;
+    text-align: center;
+}
+
+section.hero4 {
+    font-family: built titling;
+    color: #fff;
+    margin-top: 150px;
+    font-size: 25px;
+    text-align: center;
+}
+
+section.hero5 {
+    font-family: built titling;
+    color: #fff;
+    margin-top: 150px;
+    font-size: 25px;
+    text-align: center;
+}
+
+section.hero6 {
+    font-family: built titling;
+    color: #fff;
+    margin-top: 150px;
+    font-size: 25px;
+    text-align: center;
+}
+
+section.hero7 {
+    font-family: built titling;
+    color: #fff;
+    margin-top: 50px;
+    font-size: 25px;
+    text-align: center;
+}
+
+button{
+    font-family: red hat display;
+    color: #fff;
+    font-size: 15px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #0000;
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+    border-color: #fff;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    color: #fff;
+    position: absolute;
+    margin-left: -90px;
+    margin-top: 20px;
+    font-family: red hat display;
+}
+
+footer{
+    margin-top: 100px;
+}
+
