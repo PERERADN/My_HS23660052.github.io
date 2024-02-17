@@ -1,5 +1,5 @@
 # My_HS23660052.github.io
- Ethereal by HTML5 UP  
+Ethereal by HTML5 UP  
 
 .
 
@@ -11,7 +11,7 @@ This is **Dulya.** I'm a fresh graduate with a degree in BSc(Hons) Biotechnology
 
 Open my CV from here [example](file:///E:/Edited%20from%20site%20HTML/New%20folder/SC1172%20Assingment%2001.pdf).
 
-![](./Portfolio complete_files/pic01.jpg)
+![](./Portfolio final_files/pic01.jpg)
 
 Education Qualifications
 ------------------------
@@ -35,13 +35,6 @@ Investigating how microorganisms can be used to removing heavy metals from the e
 
 How to grow plants in different conditions than they are normally in.
 
-*   Lorem
-*   Ipsum
-*   Dolor
-*   Sit
-*   Amet
-*   Nullam
-
 Other Skills
 ------------
 
@@ -53,7 +46,7 @@ Hard Skills -
 
 Laboratory Techniques, Executing Experiments, Data Analysis, Sceintific Writing, PCR
 
-![](./Portfolio complete_files/pic03.jpg)
+![](./Portfolio final_files/pic03.jpg)
 
 Hobbies
 -------
